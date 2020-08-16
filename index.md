@@ -3,7 +3,7 @@
 ### Support or Contact
 
 Having trouble with our game? 
-Please contact us through email: lotusstudio84@gmail.com and we’ll help you sort it out.
+Please contact us through email: lotus84studio@gmail.com and we’ll help you sort it out.
 
 ### Privacy Policy
 Lotus Studio built the Đuổi Hình Bắt Chữ Đặc Biệt app as a Free app. This SERVICE is provided by Lotus Studio at no cost and is intended for use as is.
@@ -11,7 +11,7 @@ This page is used to inform visitors regarding my policies with the collection, 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Đuổi Hình Bắt Chữ Đặc Biệt unless otherwise defined in this Privacy Policy.
 Information Collection and Use
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to lotusstudio84@gmail.com. The information that I request will be retained on your device and is not collected by me in any way.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to lotus84studio@gmail.com. The information that I request will be retained on your device and is not collected by me in any way.
 The app does use third party services that may collect information used to identify you.
 Link to privacy policy of third party service providers used by the app
 Unity
@@ -37,7 +37,7 @@ Changes to This Privacy Policy
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 This policy is effective as of 2020-08-16
 Contact Us
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at lotusstudio84@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at lotus84studio@gmail.com.
 
 ### Terms & Conditions
 By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy, or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages, or make derivative versions. The app itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to Lotus Studio.
@@ -46,7 +46,7 @@ The Đuổi Hình Bắt Chữ Đặc Biệt app stores and processes personal da
 The app does use third party services that declare their own Terms and Conditions.
 Link to Terms and Conditions of third party service providers used by the app
 Unity
-You should be aware that there are certain things that Lotus Studio will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi, or provided by your mobile network provider, but Lotus Studio cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
+You should be aware that there are certain things that Lotus84 Studio will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi, or provided by your mobile network provider, but Lotus Studio cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
 If you’re using the app outside of an area with Wi-Fi, you should remember that your terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
 Along the same lines, Lotus Studio cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Lotus Studio cannot accept responsibility.
 With respect to Lotus Studio’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavour to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. Lotus Studio accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
@@ -55,4 +55,4 @@ Changes to This Terms and Conditions
 I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
 These terms and conditions are effective as of 2020-08-16
 Contact Us
-If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at lotusstudio84@gmail.com.
+If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at lotus84studio@gmail.com.
